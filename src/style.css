@@ -25,8 +25,15 @@ main{
 }
 #vk {
     height: 200px;
+    
+  
 }
-footer a :last-child{
+footer img {
     height: 80px;
-    margin-bottom: 40px;
+    
+}
+ a{
+    margin: -60px;
+    
+  
 }
